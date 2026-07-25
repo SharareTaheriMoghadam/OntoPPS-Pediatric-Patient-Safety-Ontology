@@ -227,6 +227,37 @@ The Onto_PPS ontology artifact is not included in this repository.
 This repository is intended to document and showcase the doctoral research project, its scientific objectives, methodology, evaluation framework, and scholarly contributions without redistributing the ontology artifact itself.
 
 ---
+## Research Significance
+
+The significance of the Onto_PPS research extends beyond the development of a domain-specific ontology.
+
+The research demonstrated how systematic evidence synthesis, knowledge extraction, ontology engineering, knowledge integration, and multi-dimensional evaluation can be combined within a Medical Informatics research programme.
+
+The research contributed to:
+
+- formalizing knowledge related to pediatric patient safety;
+- addressing fragmentation across heterogeneous patient safety knowledge systems;
+- investigating methodological approaches for ontology development and evaluation;
+- supporting the structured organization and integration of patient safety knowledge;
+- establishing a foundation for future knowledge-driven healthcare applications.
+
+### From Structured Knowledge to Healthcare AI
+
+The broader research trajectory can be summarized as:
+
+```text
+Evidence-Based Research
+          +
+Structured Medical Knowledge
+          +
+Ontology Engineering
+          +
+Knowledge Integration
+          +
+Computational Representation
+          ↓
+Foundation for Knowledge-Driven Healthcare AI
+
 
 Keywords
 
