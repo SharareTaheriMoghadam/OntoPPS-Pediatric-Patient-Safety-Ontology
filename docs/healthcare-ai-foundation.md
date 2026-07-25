@@ -65,3 +65,35 @@ Patient Safety Knowledge
           │
           ▼
 Explainable & Trustworthy AI
+## Interoperability Perspective
+
+Formal knowledge representation can support the integration of heterogeneous healthcare knowledge sources.
+
+By organizing concepts and semantic relationships within a structured knowledge model, ontology-based approaches can provide a foundation for:
+
+- semantic interoperability;
+- knowledge integration;
+- cross-system information retrieval;
+- patient safety data analysis;
+- clinical knowledge management;
+- integration of structured knowledge with healthcare information systems.
+
+The high-level interoperability perspective can be represented as:
+
+```text
+Clinical Literature
+        │
+        ├──────────────┐
+        │              │
+Patient Safety   Healthcare
+Classifications  Knowledge Systems
+        │              │
+        └──────┬───────┘
+               ▼
+       Structured Knowledge
+               │
+               ▼
+      Semantic Integration
+               │
+               ▼
+     Interoperable AI Systems
