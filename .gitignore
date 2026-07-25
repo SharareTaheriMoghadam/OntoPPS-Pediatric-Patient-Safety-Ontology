@@ -1,0 +1,51 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# Unpublished research materials
+*.pdf
+*.doc
+*.docx
+
+# Ontology files and exports
+*.owl
+*.rdf
+*.ttl
+*.obo
+*.jsonld
+
+# Private and unpublished directories
+private/
+unpublished/
+ontology-export/
+ontology-backup/
+thesis/
+manuscripts/
