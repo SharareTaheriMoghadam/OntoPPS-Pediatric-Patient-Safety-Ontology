@@ -40,6 +40,23 @@ The project aimed to:
 6. Explore the potential application of ontology-based knowledge representation in patient safety education, research, clinical practice, reporting, and data analysis.
 
 ---
+## Key Research Outcomes
+
+The doctoral research resulted in the development and evaluation of a domain-specific ontology for pediatric patient safety.
+
+The research programme included:
+
+- systematic investigation of patient safety classifications, taxonomies, and ontologies;
+- systematic extraction and organization of pediatric patient safety knowledge;
+- development of a formal ontology-based knowledge representation;
+- integration and mapping of knowledge from existing patient safety systems;
+- multi-dimensional ontology evaluation;
+- scholarly publications on patient safety knowledge representation, development methodologies, evaluation methodologies, and content coverage.
+
+The project established a methodological foundation connecting:
+
+**Patient Safety → Ontology Engineering → Knowledge Representation → Knowledge Graphs → Healthcare AI**
+---
 
 Research Workflow
 
