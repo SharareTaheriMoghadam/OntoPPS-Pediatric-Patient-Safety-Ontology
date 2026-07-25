@@ -42,6 +42,20 @@ env/
 *.obo
 *.jsonld
 
+# Private and unpublished materials
+private/
+unpublished/
+ontology-export/
+ontology-backup/
+thesis/
+manuscripts/
+# Ontology files and exports
+*.owl
+*.rdf
+*.ttl
+*.obo
+*.jsonld
+
 # Private and unpublished directories
 private/
 unpublished/
