@@ -1,16 +1,16 @@
 cff-version: 1.2.0
 
-message: "If you use or refer to this research portfolio, please cite it."
+message: "If you refer to this research portfolio, please cite it."
 
 title: "Onto_PPS: Pediatric Patient Safety Ontology Research Portfolio"
 
 abstract: >
   Research portfolio documenting doctoral research on the development and
-  evaluation of Onto_PPS, an ontology for pediatric patient safety. The
-  repository presents a high-level overview of the research methodology,
-  workflow, evaluation framework, scientific contributions, and associated
-  scholarly outputs. The ontology artifact and full doctoral thesis are not
-  publicly distributed in this repository.
+  evaluation of a knowledge representation framework for pediatric patient
+  safety. The repository presents a high-level overview of the research
+  objectives, methodology, workflow, evaluation framework, scientific
+  contributions, and associated scholarly outputs. The ontology artifact and
+  full doctoral thesis are not publicly distributed in this repository.
 
 authors:
   - family-names: "Taheri Moghadam"
@@ -26,8 +26,6 @@ keywords:
   - "Healthcare Artificial Intelligence"
 
 repository-code: "https://github.com/SharareTaheriMoghadam/OntoPPS-Pediatric-Patient-Safety-Ontology"
-
-license: "CC-BY-NC-ND-4.0"
 
 version: 1.0.0
 
