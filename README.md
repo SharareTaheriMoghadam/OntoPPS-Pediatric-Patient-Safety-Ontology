@@ -1,5 +1,14 @@
 # OntoPPS-Pediatric-Patient-Safety-Ontology
 Research portfolio showcasing my doctoral research on the development and evaluation of Onto_PPS, an ontology for pediatric patient safety. The ontology artifact and full thesis are not publicly distributed; this repository provides a high-level overview of the research, methodology, evaluation, and scholarly outputs.
+## Intellectual Property and Availability
+
+This repository is a research portfolio and project showcase documenting the doctoral research underlying the Onto_PPS project.
+
+The complete Onto_PPS ontology artifact, the full doctoral thesis, and unpublished thesis-derived research materials are not publicly distributed in this repository.
+
+The repository does not redistribute the ontology artifact or the full thesis and does not grant rights to reproduce, modify, redistribute, or commercially use unpublished thesis-derived materials.
+
+The scholarly publications associated with the research are listed separately in [`references/publications.md`](references/publications.md) and should be cited according to their respective publication records.
 Onto_PPS: Ontology of Pediatric Patient Safety
 
 A Research Project in Medical Informatics and Patient Safety Knowledge Representation
