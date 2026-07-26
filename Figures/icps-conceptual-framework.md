@@ -1,6 +1,6 @@
 # Original High-Level Visualization of the WHO International Classification for Patient Safety (ICPS)
 
-![Original High-Level Visualization of the WHO ICPS Conceptual Framework](../Assets/High-Level Conceptual Framework of the WHO ICPS.png)
+![Original High-Level Visualization of the WHO ICPS Conceptual Framework](../Assets/icps-conceptual-framework.png)
 
 ## Overview
 
