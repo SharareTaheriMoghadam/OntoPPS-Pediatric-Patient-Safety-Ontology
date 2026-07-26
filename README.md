@@ -1,277 +1,294 @@
-# OntoPPS-Pediatric-Patient-Safety-Ontology
-Research portfolio showcasing my doctoral research on the development and evaluation of Onto_PPS, an ontology for pediatric patient safety. The ontology artifact and full thesis are not publicly distributed; this repository provides a high-level overview of the research, methodology, evaluation, and scholarly outputs.
-## Intellectual Property and Availability
+Onto_PPS
 
-This repository is a research portfolio and project showcase documenting the doctoral research underlying the Onto_PPS project.
 
-The complete Onto_PPS ontology artifact, the full doctoral thesis, and unpublished thesis-derived research materials are not publicly distributed in this repository.
+Pediatric Patient Safety Ontology Research Portfolio
 
-The repository does not redistribute the ontology artifact or the full thesis and does not grant rights to reproduce, modify, redistribute, or commercially use unpublished thesis-derived materials.
 
-The scholarly publications associated with the research are listed separately in [`references/publications.md`](references/publications.md) and should be cited according to their respective publication records.
-Onto_PPS: Ontology of Pediatric Patient Safety
 
-A Research Project in Medical Informatics and Patient Safety Knowledge Representation
 
-Onto_PPS was a doctoral research project focused on the development and evaluation of a domain-specific ontology for representing patient safety knowledge in pediatric medicine.
+A doctoral research programme at the intersection of Patient Safety, Medical Informatics, Ontology Engineering, and Knowledge-Driven Healthcare AI.
 
-The project was developed as part of a PhD in Medical Informatics at Iran University of Medical Sciences.
 
-«Important note: The ontology artifact itself is not publicly distributed in this repository. This repository serves as a research project showcase and documents the scientific motivation, methodological framework, evaluation strategy, and research outputs associated with the doctoral research.»
 
----
 
-Research Motivation
 
-Patient safety knowledge is distributed across heterogeneous classifications, taxonomies, reporting systems, clinical literature, and domain-specific frameworks.
+Research at a Glance
 
-In pediatric medicine, patient safety presents additional complexity because:
 
-- children differ from adults in physiology and clinical risk;
-- medication and treatment-related risks may be age-dependent;
-- safety events can vary across developmental stages;
-- pediatric healthcare involves multiple care settings and specialized clinical environments;
-- existing classifications may provide incomplete or fragmented coverage of pediatric patient safety concepts.
 
-The Onto_PPS project was designed to address this knowledge representation challenge through ontology engineering and systematic knowledge integration.
 
----
+Dimension
+Research Focus
 
-Research Objectives
 
-The project aimed to:
 
-1. Investigate existing patient safety classifications, taxonomies, and ontologies.
-2. Identify their development and evaluation methodologies.
-3. Extract and organize pediatric patient safety concepts from the scientific literature.
-4. Integrate relevant patient safety knowledge into a formal ontology.
-5. Evaluate the ontology from structural, content, expert, comparative, and computational perspectives.
-6. Explore the potential application of ontology-based knowledge representation in patient safety education, research, clinical practice, reporting, and data analysis.
 
----
-## Key Research Outcomes
+Research Domain
+Medical Informatics & Patient Safety
 
-The doctoral research resulted in the development and evaluation of a domain-specific ontology for pediatric patient safety.
 
-The research programme included:
+Clinical Context
+Pediatric Patient Safety
 
-- systematic investigation of patient safety classifications, taxonomies, and ontologies;
-- systematic extraction and organization of pediatric patient safety knowledge;
-- development of a formal ontology-based knowledge representation;
-- integration and mapping of knowledge from existing patient safety systems;
-- multi-dimensional ontology evaluation;
-- scholarly publications on patient safety knowledge representation, development methodologies, evaluation methodologies, and content coverage.
 
-The project established a methodological foundation connecting:
+Core Challenge
+Fragmented and heterogeneous patient safety knowledge
 
-**Patient Safety → Ontology Engineering → Knowledge Representation → Knowledge Graphs → Healthcare AI**
----
+
+Scientific Approach
+Evidence Synthesis + Knowledge Organization + Ontology Engineering
+
+
+Research Output
+Onto_PPS
+
+
+Evaluation Perspective
+Multi-dimensional ontology evaluation
+
+
+Research Legacy
+Knowledge Representation → Knowledge Graphs → Trustworthy Healthcare AI
+
+
+
+
+
+Overview
+
+
+Onto_PPS represents the research portfolio of my doctoral research in Medical Informatics, focused on the development and evaluation of an ontology for pediatric patient safety.
+
+
+The research addressed the challenge of representing complex, heterogeneous, and fragmented patient safety knowledge in a structured and formally organized manner.
+
+
+The research programme integrated:
+
+
+
+
+systematic evidence synthesis;
+
+
+patient safety knowledge analysis;
+
+
+conceptual knowledge organization;
+
+
+ontology engineering;
+
+
+formal knowledge representation;
+
+
+semantic interoperability;
+
+
+multi-dimensional ontology evaluation.
+
+
+
+
+This repository presents the high-level scientific and methodological foundation of the research.
+
+
+
+The Research Problem
+
+
+Patient safety knowledge is distributed across diverse classifications, taxonomies, terminologies, conceptual frameworks, and information systems.
+
+
+This fragmentation creates challenges for:
+
+
+
+
+consistent knowledge organization;
+
+
+semantic integration;
+
+
+knowledge reuse;
+
+
+interoperability;
+
+
+computational reasoning;
+
+
+future knowledge-driven healthcare applications.
+
+
+
+
+The Onto_PPS research investigated how ontology engineering and formal knowledge representation could contribute to the structured organization of pediatric patient safety knowledge.
+
+
 
 Research Workflow
 
-The research followed a multi-phase methodology:
 
-Phase 1 — Review of Existing Patient Safety Knowledge Systems
+The research followed an evidence-based and structured workflow:
 
-A systematic review and comparative analysis of patient safety classifications, taxonomies, and ontologies was conducted.
 
-The review investigated:
+Research Problem
+      ↓
+Systematic Evidence Synthesis
+      ↓
+Knowledge Identification
+      ↓
+Conceptual Organization
+      ↓
+Ontology Engineering
+      ↓
+Knowledge Representation
+      ↓
+Multi-Dimensional Evaluation
+      ↓
+Scientific Dissemination
 
-- conceptual coverage;
-- development methodologies;
-- evaluation methodologies;
-- structural characteristics;
-- domain scope;
-- representation approaches;
-- relationships between concepts.
 
-The broader review identified patient safety knowledge representation systems across the literature and supported the design requirements for the pediatric patient safety ontology.
 
----
+The research connected methodological approaches from:
 
-Phase 2 — Pediatric Patient Safety Concept Extraction
 
-Patient safety concepts were systematically extracted from pediatric healthcare literature.
+Patient Safety → Medical Informatics → Knowledge Representation → Ontology Engineering
 
-This phase resulted in the identification of:
 
-- 95 pediatric patient safety-related articles
-- 2,365 extracted patient safety concepts
 
-The extracted concepts were analyzed and organized to support the development of a pediatric patient safety knowledge model.
+Conceptual Research Framework
 
----
 
-Phase 3 — Ontology Development
+Pediatric Patient Safety Knowledge
+              ↓
+Evidence-Based Knowledge Identification
+              ↓
+Conceptual Organization
+              ↓
+Ontology Engineering
+              ↓
+Structured Medical Knowledge
+              ↓
+Semantic Knowledge Integration
+              ↓
+Knowledge-Driven Healthcare Applications
 
-The Ontology of Pediatric Patient Safety, Onto_PPS, was developed using ontology engineering principles and implemented in Protégé.
 
-The final ontology included:
 
-- 3,234 patient safety concepts
-- 11 major concept categories
-- 23 semantic relations
-- Maximum depth of 6 levels
-- Mappings to 13 existing classifications and ontologies
+The framework reflects a central research principle:
 
-The ontology was designed to represent interconnected aspects of pediatric patient safety knowledge, including events, contributing factors, clinical contexts, consequences, prevention-related concepts, and other relevant safety dimensions.
 
----
 
-Ontology Evaluation Framework
 
-Onto_PPS was evaluated using multiple complementary approaches.
+Complex healthcare knowledge can be transformed into structured, formally represented knowledge to support integration, interpretation, and future computational applications.
 
-1. Expert-Based Evaluation
 
-Domain experts assessed the ontology using structured evaluation criteria.
 
-The results indicated generally favorable expert assessments, with most evaluation criteria receiving good scores.
 
----
 
-2. Literature-Based Content Coverage
+Onto_PPS Research Contribution
 
-The ontology was compared with concepts identified in pediatric patient safety literature.
 
-The analysis demonstrated substantial coverage of concepts represented in the evaluated literature.
+The doctoral research contributed to the development of a structured knowledge representation approach for pediatric patient safety.
 
----
 
-3. Comparative Evaluation
+Its broader scientific contributions included:
 
-Onto_PPS was compared with existing patient safety classifications and knowledge representation systems.
 
-The comparison examined:
 
-- number of concepts;
-- number of relations;
-- hierarchical depth;
-- content coverage;
-- mappings to existing systems.
 
-The ontology demonstrated extensive coverage across these dimensions.
+investigating methodologies for patient safety ontology development;
 
----
 
-4. Computational Evaluation
+examining approaches to ontology evaluation;
 
-Machine-based ontology evaluation was performed to investigate structural properties including consistency and coherence.
 
-The computational evaluation supported the structural quality of the ontology.
+organizing heterogeneous pediatric patient safety knowledge;
 
----
 
-Research Contributions
+addressing challenges related to knowledge fragmentation;
 
-The project contributed to the field of Medical Informatics by:
 
-- consolidating fragmented pediatric patient safety knowledge;
-- developing a formal representation model for pediatric patient safety;
-- integrating concepts from existing patient safety systems and the scientific literature;
-- supporting semantic interoperability and knowledge organization;
-- providing a foundation for ontology-driven patient safety applications;
-- demonstrating the role of ontology engineering in clinical safety knowledge management.
+exploring the role of formal knowledge representation in Medical Informatics;
 
----
 
-Potential Applications
+establishing a foundation for future semantic and knowledge-driven healthcare applications.
 
-The research demonstrated the potential of ontology-based patient safety knowledge representation for:
 
-- patient safety education;
-- research and evidence organization;
-- clinical safety knowledge management;
-- standardized patient safety reporting;
-- medical error analysis;
-- patient safety data integration;
-- semantic search and information retrieval;
-- future clinical decision support systems.
 
----
 
-Research Outputs
 
-The doctoral research contributed to a series of publications and scholarly outputs related to patient safety knowledge representation.
+Evaluation Perspective
 
-Selected Publications
 
-Taheri Moghadam S, Hooman N, Sheikhtaheri A.
+The research incorporated a multi-dimensional perspective on ontology evaluation.
 
-Patient safety classifications, taxonomies and ontologies: A systematic review on development and evaluation methodologies.
 
-Journal of Biomedical Informatics.
+The evaluation framework considered dimensions including:
 
----
 
-Taheri Moghadam S, Hooman N, Sheikhtaheri A.
 
-Patient Safety Classifications for Health Information Technology (HIT) and Medical Devices: A Review on Available Systems.
 
----
+content coverage;
 
-Taheri Moghadam S, Hooman N, Sheikhtaheri A.
 
-Patient safety classifications, taxonomies and ontologies, Part 2: A systematic review on content coverage.
+conceptual representation;
 
-Journal of Biomedical Informatics.
 
----
+knowledge organization;
 
-Doctoral Research
 
-PhD in Medical Informatics
+comparative assessment;
 
-Iran University of Medical Sciences
 
-Research focus: Ontology Engineering · Patient Safety · Pediatric Medicine · Knowledge Representation · Biomedical Informatics
+expert-oriented evaluation;
 
-Researcher: Sharare Taheri Moghadam, PhD
 
----
+structural and computational perspectives.
 
-Relation to Future Research
 
-This doctoral research established a foundation for continuing work in:
 
-- medical ontologies;
-- knowledge graphs;
-- clinical natural language processing;
-- ontology-driven clinical decision support;
-- explainable artificial intelligence;
-- patient safety intelligence;
-- large language models for healthcare.
 
-The methodological experience gained through Onto_PPS subsequently informed my research direction toward integrating structured medical knowledge with artificial intelligence and clinical decision-support technologies.
+The evaluation approach was designed to examine the quality and usefulness of a domain-specific knowledge representation from multiple complementary perspectives.
 
----
 
-Intellectual Property and Availability
 
-The Onto_PPS ontology artifact is not included in this repository.
+Interoperability Perspective
 
-This repository is intended to document and showcase the doctoral research project, its scientific objectives, methodology, evaluation framework, and scholarly contributions without redistributing the ontology artifact itself.
 
----
-## Research Significance
+A central motivation of the research was the potential of structured knowledge representation to support semantic interoperability.
 
-The significance of the Onto_PPS research extends beyond the development of a domain-specific ontology.
 
-The research demonstrated how systematic evidence synthesis, knowledge extraction, ontology engineering, knowledge integration, and multi-dimensional evaluation can be combined within a Medical Informatics research programme.
+Heterogeneous Knowledge Sources
+              ↓
+Conceptual Harmonization
+              ↓
+Formal Knowledge Representation
+              ↓
+Semantic Alignment
+              ↓
+Knowledge Integration
 
-The research contributed to:
 
-- formalizing knowledge related to pediatric patient safety;
-- addressing fragmentation across heterogeneous patient safety knowledge systems;
-- investigating methodological approaches for ontology development and evaluation;
-- supporting the structured organization and integration of patient safety knowledge;
-- establishing a foundation for future knowledge-driven healthcare applications.
 
-### From Structured Knowledge to Healthcare AI
+From this perspective, ontology engineering provides a conceptual foundation for connecting heterogeneous healthcare knowledge and supporting more consistent interpretation across systems.
 
-The broader research trajectory can be summarized as:
 
-```text
+
+Research Significance
+
+
+The significance of the research extends beyond the development of a domain-specific ontology.
+
+
+The research demonstrated how:
+
+
 Evidence-Based Research
           +
 Structured Medical Knowledge
@@ -280,11 +297,372 @@ Ontology Engineering
           +
 Knowledge Integration
           +
-Computational Representation
+Formal Representation
           ↓
 Foundation for Knowledge-Driven Healthcare AI
 
 
-Keywords
 
-"Medical Informatics" · "Biomedical Informatics" · "Patient Safety" · "Pediatrics" · "Ontology Engineering" · "Knowledge Representation" · "Semantic Web" · "Clinical Knowledge" · "Healthcare AI" · "Clinical Decision Support"
+This research trajectory connects patient safety research with broader developments in:
+
+
+
+
+knowledge graphs;
+
+
+ontology-driven clinical intelligence;
+
+
+clinical decision support;
+
+
+explainable artificial intelligence;
+
+
+trustworthy healthcare AI.
+
+
+
+
+
+Research Trajectory
+
+
+The broader research trajectory can be conceptualized as:
+
+
+Patient Safety Research
+          ↓
+Knowledge Representation
+          ↓
+Ontology Engineering
+          ↓
+Knowledge Integration
+          ↓
+Knowledge Graphs
+          ↓
+Ontology-Driven Clinical AI
+          ↓
+Explainable and Trustworthy Healthcare AI
+
+
+
+The Onto_PPS research represents an early foundation of this continuing research direction.
+
+
+
+From Doctoral Research to Current Research
+
+
+The conceptual and methodological foundation developed through the Onto_PPS research continues to inform research interests in:
+
+
+
+
+biomedical knowledge graphs;
+
+
+ontology-driven clinical decision support;
+
+
+clinical natural language processing;
+
+
+explainable AI;
+
+
+knowledge-enhanced machine learning;
+
+
+trustworthy and responsible healthcare AI.
+
+
+
+
+The continuing research principle is:
+
+
+
+
+Healthcare AI should be supported by structured, domain-relevant, interpretable, and scientifically grounded knowledge.
+
+
+
+
+
+Scholarly Outputs
+
+
+The research programme contributed to scholarly work concerning:
+
+
+
+
+patient safety classifications;
+
+
+taxonomies and ontologies;
+
+
+ontology development methodologies;
+
+
+ontology evaluation methodologies;
+
+
+patient safety knowledge coverage;
+
+
+patient safety knowledge representation for healthcare information technology and medical devices.
+
+
+
+
+See references/publications.md for the associated scholarly outputs.
+
+
+
+Research Portfolio Scope
+
+
+This repository is intentionally designed as a research portfolio and scientific project showcase.
+
+
+It documents:
+
+
+
+
+research objectives;
+
+
+research background;
+
+
+methodology;
+
+
+research workflow;
+
+
+conceptual frameworks;
+
+
+evaluation perspectives;
+
+
+interoperability considerations;
+
+
+scientific significance;
+
+
+research legacy;
+
+
+scholarly outputs.
+
+
+
+
+
+What This Repository Does Not Contain
+
+
+To respect applicable institutional policies and intellectual property considerations, this repository does not publicly distribute:
+
+
+
+
+the complete Onto_PPS ontology artifact;
+
+
+the full doctoral dissertation;
+
+
+the complete ontology class hierarchy;
+
+
+the complete semantic relationship structure;
+
+
+unpublished thesis-derived datasets;
+
+
+unpublished evaluation datasets;
+
+
+confidential research materials.
+
+
+
+
+The repository therefore presents the research programme and its scientific foundation, rather than the unpublished ontology artifact itself.
+
+
+
+Research Legacy
+
+
+The Onto_PPS research represents a foundational stage in a continuing research trajectory:
+
+
+Pediatric Patient Safety
+          ↓
+Medical Knowledge
+          ↓
+Ontology Engineering
+          ↓
+Knowledge Graphs
+          ↓
+Clinical AI
+          ↓
+Trustworthy Healthcare AI
+
+
+
+The research legacy lies in the continuity between:
+
+
+Domain Knowledge → Formal Representation → Knowledge Integration → Intelligent Healthcare Systems
+
+
+
+Repository Structure
+
+
+Onto_PPS/
+│
+├── README.md
+├── CITATION.cff
+├── .gitignore
+│
+├── docs/
+│   ├── research-background.md
+│   ├── research-objectives.md
+│   ├── methodology.md
+│   ├── research-workflow.md
+│   ├── healthcare-ai-foundation.md
+│   ├── evaluation-framework.md
+│   ├── research-significance.md
+│   └── research-legacy.md
+│
+├── diagrams/
+│   ├── research-workflow.md
+│   ├── conceptual-framework.md
+│   ├── research-trajectory.md
+│   └── research-legacy.md
+│
+└── references/
+    ├── publications.md
+    └── doctoral-dissertation.md
+
+
+
+
+Scientific Identity
+
+
+Onto_PPS is more than an ontology project.
+
+
+It represents a research journey from:
+
+
+
+
+Understanding a complex patient safety domain
+
+
+
+
+to:
+
+
+
+
+Organizing medical knowledge
+
+
+
+
+to:
+
+
+
+
+Engineering formal knowledge representations
+
+
+
+
+to:
+
+
+
+
+Building foundations for knowledge-driven healthcare AI.
+
+
+
+
+
+Author
+
+
+Sharare Taheri Moghadam, PhD in Medical Informatics
+
+
+Research interests:
+
+
+
+
+Medical Informatics;
+
+
+Patient Safety;
+
+
+Ontology Engineering;
+
+
+Knowledge Representation;
+
+
+Biomedical Knowledge Graphs;
+
+
+Clinical AI;
+
+
+Explainable AI;
+
+
+Trustworthy Healthcare AI.
+
+
+
+
+
+Disclaimer
+
+
+This repository is provided for academic portfolio and research documentation purposes.
+
+
+The materials presented here describe the high-level scientific and methodological aspects of the Onto_PPS research. The complete doctoral dissertation, ontology artifact, and other unpublished thesis-derived research materials are not publicly distributed through this repository.
+
+
+For scholarly use of the associated research, please refer to the cited publications and institutional sources.
+
+
+
+Citation
+
+
+If you refer to the research described in this repository, please cite the associated scholarly publications listed in:
+
+
+references/publications.md
