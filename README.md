@@ -152,7 +152,9 @@ Multi-Dimensional Evaluation
       ↓
 Scientific Dissemination
 
-![Onto_PPS Research Workflow](Assets/Research-Workflows.png)
+# Original High-Level Visualization of the WHO International Classification for Patient Safety (ICPS)
+
+![Original High-Level Visualization of the WHO ICPS Conceptual Framework](../Assets/icps-conceptual-framework.png)
 
 The research connected methodological approaches from:
 
