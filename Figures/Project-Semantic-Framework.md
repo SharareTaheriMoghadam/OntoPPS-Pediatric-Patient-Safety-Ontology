@@ -1,3 +1,3 @@
 ## Conceptual Framework
 
-![Project Semantic Framework](Assets/Conceptual-Framework.png)
+![Project Semantic Framework](../Assets/Onto-PPS-Conceptual-Framework.png)
