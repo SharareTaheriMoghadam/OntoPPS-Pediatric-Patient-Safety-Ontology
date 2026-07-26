@@ -691,10 +691,22 @@ For scholarly use of the associated research, please refer to the cited publicat
 
 
 
-Citation
+## Citations, Scholarly Outputs and Doctoral Research
 
+The research programme contributed to scholarly work concerning:
 
-If you refer to the research described in this repository, please cite the associated scholarly publications listed in:
+- patient safety classifications;
+- taxonomies and ontologies;
+- ontology development methodologies;
+- ontology evaluation methodologies;
+- patient safety knowledge coverage;
+- patient safety knowledge representation for healthcare information technology and medical devices.
 
-(references/publications.md)
+For the associated scholarly publications, see:
+
+📚 [Scholarly Outputs](references/publications.md)
+
+For information about the doctoral research and dissertation context, see:
+
+🎓 [Doctoral Dissertation](references/Doctoral-Dissertation.md)
 
