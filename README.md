@@ -160,22 +160,50 @@ The research connected methodological approaches from:
 Patient Safety → Medical Informatics → Knowledge Representation → Ontology Engineering
 
 
+The Onto_PPS research was situated within the broader landscape of patient safety classifications, taxonomies, and knowledge-representation frameworks, including the WHO International Classification for Patient Safety (ICPS).
+## Patient Safety Knowledge Representation Context
+
+The Onto_PPS research was situated within a broader landscape of established patient safety classifications, taxonomies, and knowledge-representation frameworks.
+
+The World Health Organization International Classification for Patient Safety (ICPS) represents one important conceptual framework within this landscape.
+
+The icps figure presents an original high-level visualization of publicly documented ICPS conceptual domains. It is provided for research context and does not reproduce the Onto_PPS ontology or its unpublished implementation details.
+
+For a detailed explanation of the figure and its relationship to the research context, see [`Figures/icps-conceptual-framework.md`](figures/icps-conceptual-framework.md).
+![Original High-Level Visualization of the WHO ICPS Conceptual Framework](assets/figures/icps-conceptual-framework.png)
 
 Conceptual Research Framework
 
-
+WHO International Classification
+for Patient Safety (ICPS)
+              │
+              │  Broader Patient-Safety
+              │  Knowledge Landscape
+              ▼
+Onto_PPS Doctoral Research
+              │
+              ▼
 Pediatric Patient Safety Knowledge
-              ↓
+              │
+              ▼
 Evidence-Based Knowledge Identification
-              ↓
+              │
+              ▼
 Conceptual Organization
-              ↓
+              │
+              ▼
 Ontology Engineering
-              ↓
+              │
+              ▼
 Structured Medical Knowledge
-              ↓
+              │
+              ▼
 Semantic Knowledge Integration
-              ↓
+              │
+              ▼
+Knowledge Representation
+              │
+              ▼
 Knowledge-Driven Healthcare Applications
 
 
