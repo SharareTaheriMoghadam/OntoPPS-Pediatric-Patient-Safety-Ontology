@@ -152,9 +152,9 @@ Multi-Dimensional Evaluation
       ↓
 Scientific Dissemination
 
-# Original High-Level Visualization of the WHO International Classification for Patient Safety (ICPS)
 
-![Original High-Level Visualization of the WHO ICPS Conceptual Framework](../Assets/icps-conceptual-framework.png)
+
+
 
 The research connected methodological approaches from:
 
@@ -172,7 +172,8 @@ The World Health Organization International Classification for Patient Safety (I
 The icps figure presents an original high-level visualization of publicly documented ICPS conceptual domains. It is provided for research context and does not reproduce the Onto_PPS ontology or its unpublished implementation details.
 
 For a detailed explanation of the figure and its relationship to the research context, see [`Figures/icps-conceptual-framework.md`](figures/icps-conceptual-framework.md).
-![Original High-Level Visualization of the WHO ICPS Conceptual Framework](assets/figures/icps-conceptual-framework.png)
+
+![Original High-Level Visualization of the WHO ICPS Conceptual Framework](Assets/icps-conceptual-framework.png)
 
 Conceptual Research Framework
 
