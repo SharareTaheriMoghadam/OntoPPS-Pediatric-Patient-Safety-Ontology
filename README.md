@@ -696,5 +696,5 @@ Citation
 
 If you refer to the research described in this repository, please cite the associated scholarly publications listed in:
 
+(references/publications.md)
 
-references/publications.md
